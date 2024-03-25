@@ -277,6 +277,9 @@ Após detectar uma saída de áudio adequada, o aplicativo pode proceder com a r
 
 Para dispositivos Wear OS com alto-falantes, incorporar funcionalidades de áudio pode enriquecer significativamente a experiência do usuário. Isso pode incluir a reprodução de alarmes sonoros, instruções de voz em apps de fitness, ou feedback auditivo em apps educativos.
 
+
+### Apresentação do App concluido
+
  <BR>
  <img src="images/missao.pratica.gif" alt="" style="width: 65%; display: block;"/>
  <BR>
