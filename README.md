@@ -110,7 +110,7 @@ Essas configurações e otimizações podem ajudar a criar um ambiente de desenv
   
 <BR>
 
-###Criação do emulador "WEAR OS"
+### Criação do emulador "WEAR OS"
 
 ``` 
  Abra seu Android Studio e selecione 'mode actions'.'Virtual Device Manager'
